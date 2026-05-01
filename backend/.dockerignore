@@ -1,0 +1,10 @@
+# Don't ship local virtual envs or caches into the image — uv installs fresh.
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+*.log
+.git/
+.gitignore
+README.md
