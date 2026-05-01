@@ -1,0 +1,59 @@
+# Bring the whole stack up with: docker compose up
+#
+# Three services:
+#   - postgres: stores users, trips, tool call logs, AND vector embeddings (pgvector)
+#   - backend:  FastAPI on :8000 (the API)
+#   - frontend: static React build on :5173 served by nginx
+#
+# Postgres data lives in a named volume so it survives `docker compose down`.
+
+services:
+  postgres:
+    image: pgvector/pgvector:pg16
+    container_name: wayfound-pg
+    environment:
+      POSTGRES_USER: wayfound
+      POSTGRES_PASSWORD: wayfound
+      POSTGRES_DB: wayfound
+    ports:
+      - "5432:5432"
+    volumes:
+      # Named volume — survives `docker compose down`.
+      - wayfound_pg_data:/var/lib/postgresql/data
+    healthcheck:
+      # Backend waits for this to be healthy before starting up.
+      test: ["CMD-SHELL", "pg_isready -U wayfound -d wayfound"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+  backend:
+    build:
+      context: ./backend
+    container_name: wayfound-backend
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      # Override DATABASE_URL so it points at the postgres service inside the
+      # compose network instead of localhost.
+      DATABASE_URL: postgresql+asyncpg://wayfound:wayfound@postgres:5432/wayfound
+    env_file:
+      # Everything else (JWT_SECRET_KEY, GROQ_API_KEY, OPENWEATHER_API_KEY, ...)
+      # comes from your local backend/.env file. NOT committed to git.
+      - ./backend/.env
+    ports:
+      - "8000:8000"
+
+  frontend:
+    build:
+      context: ./frontend
+    container_name: wayfound-frontend
+    depends_on:
+      - backend
+    ports:
+      # Browser hits :5173 (matches dev mode). nginx listens on :80 inside the container.
+      - "5173:80"
+
+volumes:
+  wayfound_pg_data:
