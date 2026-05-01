@@ -1,0 +1,448 @@
+'''Reykjavík''' is the capital of and largest city in Iceland and with an urban area population of around 233,000 (2019), it is the home to two-thirds of Iceland's population. It is the centre of culture and life of the Icelandic people, and is one of the focal points of tourism in Iceland. The city is spread out, and has sprawling suburbs. The city centre, however, is a very small area characterised by eclectic and colourful houses, with good shopping, dining and drinking. Reykjavik has the distinction of being the world's northernmost capital city of a UN member state, though its winters are surprisingly mild for a city of its latitude.
+
+==Understand==
+===History===
+
+When it started to develop as a town in the 18th century, Reykjavík had already been inhabited for almost a thousand years. Legend has it that the first permanent settler in Iceland was a Norwegian named Ingólfur Arnarson. He is said to have thrown his seat pillars into the sea en route to Iceland, and decided to settle wherever the pillars were found. The pillars washed up in Reykjavík, and so that was where he set up his farm.
+
+Although the story of Ingólfur Arnarson is not widely believed to be true by modern historians, it's clear that Reykjavík was one of the first settlements in Iceland. Archaeological remains confirm that people were living there around the year 871, and for the first few centuries of Icelandic settlement, Reykjavík was a large manor farm. Its fortunes steadily waned as other centres of power increased in importance. By the 18th century, the farm of Reykjavík was owned by the king of Denmark (under whose domain Iceland fell at the time). In 1752, the estate was donated to a firm, Innréttingarnar, led by Icelandic politician Skúli Magnússon. Innréttingarnar were meant to become an important industrial exporter and a source of development in Iceland, and their main base was in what is now the heart of Reykjavík. Although the company didn't achieve all its high ideals, it did lay the foundations of Reykjavík as it is today. In 1786, Reykjavík got a trading charter and it soon started to grow in importance.
+
+In 1801, Reykjavík went from being the largest town in the country to its capital. That year a new supreme court, Landsyfirréttur, was set up in the city after the abolition of Alþingi (which no longer had any legislative functions). The same year the office of the Bishop of Iceland was founded in Reykjavík, merging the bishoprics of Hólar and Skálholt. In 1845, Alþingi was re-founded as an advisory council to the king on the affairs of Iceland, located in Reykjavík and in 1874 it regained legislative powers. As the sovereignty of the country grew, so too did Reykjavík, which by the beginning of the 20th century had been transformed from a small trading and fishing village to a fully fledged capital.
+
+The Second World War was a boom era in Reykjavík. The city wasn't directly affected by the many horrors of the war, but the occupation of Iceland by first the UK and later the US provided increased employment opportunities and inflows of cash that enabled the rapid expansion and modernisation of the Icelandic fishing fleet. Reykjavík was a leader in this development and it grew very rapidly in the years following the war. New suburbs were built and the city started to reach across municipal limits, subsuming various surrounding communities. The city continued expanding until the financial collapse of 2008.
+
+Because it is young, and in particular it expanded rapidly in the late 20th century, Reykjavík is very different from the other Nordic capitals. It lacks their grand buildings and the picturesque old quarters. Instead it has come to resemble American cities with their sprawling suburbs and big motorways, as was recommended by the urban planners of the post-World War II era. Nevertheless Reykjavík has a charm of its own, quite unique, shaped by the dualistic nature of this place which still doesn't seem to have made up its mind on whether it's a small town or a big city.
+
+===Climate===
+
+The weather in Reykjavík is notoriously unpredictable. One minute the sun may be shining on a nice summers day, the next it may change into a windy, rainy autumn. Temperatures in Reykjavík are quite bland: they don't go very high in the summer, nor do they go much below zero during winter. It follows that the differences between seasons are relatively small compared to what people experience on either side of the Atlantic.
+
+January is the coldest month and usually has some snow, while there is frequently no snow on the ground during Christmas in December. Summer is without a doubt the favorite season of most Reykjavík inhabitants. Many of them seem to imagine their city is slightly warmer than it really is and it takes little to get them to start wearing shorts and t-shirts, or to go sunbathing in parks. Don't think too much about how silly it may seem, just join them in enjoying the season!
+
+Wind is the main problem with the Reykjavík weather. The city is quite open to the seas, and the winds can be strong and chilling to the bone.
+
+===Read===
+*''The Fish Can Sing'' (Halldór Laxness, 1957). A story of a young boy growing up on a farm on the outskirts of Reykjavík in the early 20th century, during a period of rapid change in Iceland. Like many of the stories by Nobel laureate Halldór Laxness, The Fish Can Sing (''Brekkukotsannáll'', "The Annal of Brekkukot", in Icelandic) is partly based on real people and places, although names have been changed.
+*''101 Reykjavik'' (Hallgrímur Helgason, 1996). The quintessential book about downtown Reykjavík, capturing its spirit in a way no other book has. The main character never leaves postcode 101 if he doesn't need to, and spends his time either in bars and clubs or at home doing nothing. He has since become seen by many (who don't live in central Reykjavík themselves) as the model for the "101-type".
+*''Jar City'' (Arnaldur Indriðason, 2000). A crime novel about the detective Erlendur, with the Reykjavík criminal police department. Portrays the grittier sides of the city, although perhaps slightly exaggerated for the sake of writing a good story. The book has also been translated as ''Tainted Blood'', but the original Icelandic title (''Mýrin'', "the swamp") refers to the Norðurmýri neighbourhood, by the city centre. Arnaldur has written 10 further books about the detective, most of them happening in or around Reykjavík.
+
+===Tourist information===
+* [https://visitreykjavik.is/ "Visit Reykjavik" website] (the physical tourism office closed).
+
+==Get in==
+===By plane===
+
+Two airports serve the Reykjavík area, one for international flights and another for domestic flights. They are 50 km away from each other.
+
+* | url= | email=kefairport@kefairport.is
+| address= | lat=63.9965 | long=-22.6240 | directions=
+| phone=+354 425 6000 | tollfree= | fax=+354 425 0610
+| hours= | price=
+| wikipedia=Keflavík International Airport | image=2006-05-27-082806 Iceland Keflavík.jpg | wikidata=Q139921
+|lastedit=2019-07-30| content= Iceland's main international airport is  southwest of Reykjavík on the road 41 "Reykjanesbraut", in the town of Keflavík. It is served by several airlines with destinations on both sides of the Atlantic.
+}}
+*  | url=http://isavia.is | email=
+| address= | lat=64.13185 | long=-21.94667 | directions=
+| phone=+354 424 4000 | tollfree= | fax=+354 424 4001
+| hours=08:00–16:00 | price=
+| wikipedia=Reykjavík Airport | image=Reykjavik Airport aerial.jpg | wikidata=Q843204
+| content=Next to the city centre, mainly used for domestic air traffic and flights from Greenland and the Faroe Islands. Two airlines have scheduled flights to Reykjavík airport:
+}}
+**'''[http://www.airiceland.is Icelandair]''' — operates domestic flights to Akureyri, Egilsstaðir and Ísafjörður, international flights to the Faroe Islands and several airports in Greenland. Leaves from a terminal on the west side of the airport.
+**'''[http://www.eagleair.is Eagle Air]''' — operates domestic flights to Bíldudalur, Gjögur, Sauðárkrókur, Höfn and Vestmannaeyjar. Leaves from a terminal on the east side of the airport.
+
+===By bus===
+
+* 
+
+===By car===
+Three main roads serve as entry points into Reykjavík:
+* Reykjanesbraut (Road 40), enters the city from the west linking it to Southwest Iceland and Keflavík International Airport;
+* The Ring Road (Road 1), enters the city from both east and north.
+
+If you're driving into the city from South Iceland or West Iceland, beware of some quite heavy traffic jams on Sundays when people are going back home after a weekend away. This mainly applies during the summer, and becomes even worse on Mondays after three-day weekends, not to mention if the weather has been good.
+
+====Renting a car====
+There are rental car services all over Iceland, and many in Reykjavík. The cheapest car at the cheapest dealer you may find would average out to about 5,500 kr each day. If you intend to just stay in Reykjavík, renting a car is not necessary as the bus system is great and it is easy to walk around. If you plan to leave Reykjavík and go to the countryside, then renting a car is the best way to experience Iceland. The local app Hopp also rents electric cars.
+
+==== Renting a campervan ====
+There are several campervan or RV rental companies in Reykjavik, with average prices ranging from 13,000 kr to 48,000 kr in high season. Low season prices are 50–60% lower.
+
+===By boat===
+
+Several cruise liners stop in Reykjavík each summer, mostly arriving in Sundahöfn, which is 3 km east from the city centre. [http://www.cruiseiceland.com/cruise-lines/ Cruise Iceland] is a website run by several companies that service cruise liners in the country and has a list of companies that sail to Iceland.
+
+Reykjavík is not served by any ferries, but if you have an abundance of time it is possible to take the Smyril Line (a cruise company based in the Faroe Islands) from Hirtshals to Seyðisfjörður (a small town on the east of Iceland), via Tórshavn. This service is on the expensive side, and puts you on the other side of the country. However, it offers the possibility of bringing a car, which can be one of the best ways to travel around Iceland. If you take the ferry and drive from Seyðisfjörður to Reykjavík, you should plan to spend the night somewhere along the way.
+
+Of course, if you have a boat capable of crossing the Atlantic it is possible to sail to Reykjavík. Check with the port authority, the [http://faxafloahafnir.is/faxafloahafnir/en/ United Ports of Faxaflói], to find out about harbour options.
+
+==Get around==
+
+===On foot===
+Walking in Reykjavík is highly recommended, the downtown is very compact and many attractions are within walking distance from most hotels. The city is very beautiful, and the sidewalk and pathway system is first-rate. Reykjavík drivers are in general very friendly, and will sometimes stop for you even when there is no crossing facility.
+
+Unknown to many tourists a very long and scenic pathway for walking and cycling circles almost the whole city. A good starting point is anywhere where the city touches the sea. The path leads by an outdoor swimming pool, a sandy beach, a golf course, and a salmon river.
+
+===By bus===
+Reykjavík has a public bus system that is clean and reliable, called '''[https://straeto.is/en Strætó]'''. There are several different methods of payment:
+
+* Single rides cost 670 kr in cash (March 2025). If you need to switch buses to get to your final destination, ask the driver for an exchange ticket (''skiptimiði''), which is valid for the next 75 minutes on any bus. Tickets from the app are also valid for 75 minutes, once activated.
+* Single rides can also be paid for through the [https://www.klappid.is/en '''Klappið''' app] connected to your credit card. 
+* As of January of 2025 you can pay the $4.50 fare with contactless Mastercard, Europay or Visa credit/ debit cards. [https://www.klappid.is/en/buy-tickets/cash-payment]
+* Sets of tickets are available only through the app, but have no discount.
+* If you're staying outside the city centre it may be best best to get a '''[http://www.visitreykjavik.is/travel/reykjavik-city-card Reykjavík City Card]''', which allows unlimited access to the buses, along with free museums and free internet at the hostel. The tourist cards are available at the Tourist Information Centre by Ingólfstorg, and also at some hotels and convenience stores. A 24-hr card costs 4,770 kr, a 48-hr card 6,630 kr and a 72-hr card 8,180 kr, as of December 2023. The Reykjavik Card is also [https://www.reykjavikcard.com/en/ available online]. 
+* If you're staying for longer you can buy a long-term pass: A green pass lasts a month and costs 9,300 kr, a red pass is for three months and costs 21,000 kr and a blue pass lasts nine months and costs 49,900 kr.
+
+'''Hlemmur''' and '''Lækjartorg''' are the main bus interchanges in central Reykjavík, with buses that can take you to any part of the city. The Strætó system has buses going all the way east to Selfoss and north to Akranes, the former leaving from Mjódd and the latter from Háholt. Both of these stations can be reached from Hlemmur.
+
+Note that while most areas of Reykjavík and the neighboring towns are accessible by bus, the last buses leave around 23:00. Also, on Sundays there are no bus services before noon. There are no bus services after noon on Christmas Eve, and all day on Christmas Day.
+
+===By car===
+
+Driving in Reykjavík is the preferred method for most residents there. As a tourist, you should be able to manage without a car if you're only staying in the city. Driving is recommended for travel outside of Reykjavík and its suburbs. Note that many streets in central Reykjavík are one-way only and some of them are closed to cars in good weather.
+
+Compared to most other European cities, Reykjavík has a reasonable number of parking spaces, especially for a city that boasts the most cars per capita in the world. If you're in the centre and can't find a place to park, there are big parking lots by the harbour and in front of Kolaportið (the flea market). Parking spaces in the city centre generally have parking meters charging between 80 and 150 kr per hour. The city's new meters allow you to pay by card if you don't have coins on you. The fine for not paying is 2,400 kr.
+
+===By taxi===
+
+Uber and Lyft are not available in Iceland, but the local app Hopp works in Reykjavík and the Keflavik airport. The main taxi companies in Reykjavík are [https://www.hreyfill.is  Hreyfill-Bæjarleiðir] () and Borgarleiðir (). All taxis are metered and most are very clean and comfortable, but be warned that travelling by taxi is one of the most expensive ways of getting around Reykjavík. There is a start fee of 600-700 kr and a fee of 200-400 kr per kilometer. Taking a taxi is, however, the best way to get home after a night on the town. Paying by card is not a problem, nor is splitting the bill. You can either order a taxi by phone or find one at a taxi rank, of which there are several in the city. In central Reykjavík there is one rank by Lækjargata and another by Hallgrímskirkja.
+
+===By bicycle or e-scooter===
+
+It is easy to get around Reykjavík by bicycle, if you can deal with sometimes strong headwinds and a few hills. There are not many dedicated bicycle paths and so most cycling is done on the street or on the sidewalk (both are legal). When cycling on the street you must obey the same traffic rules as cars. When cycling on the sidewalk it's important to be considerate of people who are walking there, they have the right of way.
+
+Where there are specially marked paths for cyclists these are frequently shared with pedestrians, with a painted white line indicating the division between the two forms of transport. In these cases the narrower section is the bicycle path. Dedicated bicycle paths are a new phenomenon in Reykjavík but their number is increasing every year. These mostly link the city centre with the suburbs.
+
+Bicycles can be rented at the following locations:
+
+*
+*
+*
+*
+
+The local app Hopp also rents electric stand-up scooters.
+
+==See==
+
+Reykjavík's old town is small and easy to walk around. The houses have some very distinct features, most notably their brightly colored corrugated metal siding. Plan to spend at least a couple hours just wandering around, taking in the city. And for further feasts of the eyes, there are several museums and art galleries in the city, most of them within easy reach of the downtown area.
+
+=== Parks and open areas ===
+
+* 
+* 
+* 
+* 
+* 
+* 
+
+=== Buildings ===
+
+Reykjavík has a very eclectic building style, which is mainly the result of bad (or no) planning. Many of the oldest houses still standing are wooden buildings covered in brightly coloured corrugated iron. Don't be surprised to see that the next buildings down the street are an ultra-modern functionalist cube followed by early 20th-century neoclassical concrete. Some of the most interesting buildings you'll see in Reykjavík are those you find wandering about. Some deserve a special mention, however.
+
+* 
+* 
+* 
+* 
+* 
+* 
+*
+* 
+
+=== Museums ===
+
+There are several museums of art and of history found around the city.
+
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* 
+* 
+
+== Do ==
+
+There is a lot to do in Reykjavík, despite being a small city. There is a vibrant music scene with concerts most evenings in the centre of the city. For theatre enthusiasts the city boasts two main theatres staging around 10 domestic and foreign plays a year each, and a number of smaller theatre groups specialising in different kinds of modern theatre.
+
+There are a number of opportunities to experience at least a bit of Icelandic nature without leaving the city itself, and outdoors activities in the immediate vicinity of the city are easy to find. And no visit to Reykjavík would be complete without going to at least one of the geothermal pools.
+
+For more information about tours and attractions, it may be a good idea to pay a visit to the [http://visitreykjavik.is/ Tourist Information Centre] located in a beautifully renovated old building by Ingólfstorg.
+
+=== Music and theatre ===
+
+Reykjavík has a remarkably active cultural scene for a city of its size. There are a number of art galleries, theaters and concert venues. Some of these are listed below, but many of the places mentioned in the “drink” section below also frequently host concerts. There are no dedicated literary locations listed here, but for book readings it may be best to visit book stores and libraries and ask the staff what's coming up.
+
+*
+*
+*
+*
+*
+
+=== Festivals ===
+
+At least three times a year, Reykjavík comes out to celebrate.
+
+*
+*
+*
+
+The city also annually hosts a music festival and an international film festival, both take place over several days in the city centre.
+
+*
+*
+
+=== Get in touch with nature ===
+
+If you want to experience some of Iceland's nature but don't have time to leave the capital for too long, don't worry, you have several options to get a good feel for nature and the countryside without actually leaving the city.
+
+*
+* 
+*
+*
+* 
+* 
+
+=== Sports ===
+* '''Horse riding''' introduces you to the special nature of the Icelandic horse. Several companies offer riding tours on the outskirts of the city. 
+* 
+* '''Football:''' the men's national soccer team play at Laugardalsvöllur (capacity 9800) 2 km east of city centre. Club teams in Reykyavík and playing in ''Besta deild karla'', the top tier, are [https://fram.is/ Fram] at the national stadium, [https://kr.is/ KR] (''Knattspyrnufélag Reykjavíkurat'', since you were wondering) at KR-völlur, [https://www.valur.is/fotbolti Valur] at Hlíðarendi, and [https://vikingur.is/ Vikingur] at Víkingsvöllur. The playing season is April-Oct.
+
+===Geothermal swimming pools===
+
+Outdoor geothermal swimming pools are an important part of Icelandic culture and a visit to them is a great way to relax with Icelanders. In fact it is not stretching the truth too far to suggest that because drinking is so expensive the hot-pots at these pools serve the same role that pubs and bars do in the rest of Europe.
+
+* 
+* 
+* 
+* 
+*
+
+It is possible to hire swimsuits and towels at all the pools. As Icelandic pools have very minimal amounts of chemicals in them it is very important to shower thoroughly naked beforehand, and pay attention to the notices and posters that highlight hygiene issues.
+
+==Learn==
+
+Being the main population centre of the country, Reykjavík is also the location of most of Iceland's education institutions. Close to the city centre is the '''[http://english.hi.is/ University of Iceland]''', which offers courses in Icelandic as a second language. Most degree programmes are in Icelandic, but there are some specialised postgraduate degrees available relating to sustainable development and to medieval manuscripts taught in English.
+
+'''[http://en.ru.is Reykjavík University]''' was founded as a business school under the auspices of the Icelandic Chamber of Commerce. It has evolved into an institution offering a wide range of degrees in the fields of business, law, computer science and engineering, with a higher number of English-language programmes than the University of Iceland.
+
+At pre-higher education levels, '''[http://www.mh.is/ib Menntaskólinn við Hamrahlíð]''' (Hamrahlíð College) offers an IB programme in English. Several smaller schools offer Icelandic language courses for foreigners, including '''[http://www.mimir.is/english Mímir]''' and '''[http://www.icetrans.is IceSchool]'''.
+
+==Work==
+
+==Buy==
+
+ is the main shopping street of Reykjavík and has many funky boutiques, with both Icelandic and international designs. , running from Laugavegur up to Hallgrimskirkja, has a range of souvenir and craft shops. Record shops and bookstores are also located on these streets, where you can find Icelandic music and literature as well as a wide range of foreign music and books in English. European plug adapters are available at the Eymundsson bookstore on Laugavegur.
+
+Reykjavík has one flea market, , in a warehouse by the harbour and open Sa Su 11:00-17:00. In addition to stalls selling clothes, antique furniture, old books and other typical fleamarket wares, there is a food section where you can buy many Icelandic specialities as well as cheap and fresh fish and potatoes.
+
+If you yearn for international chains such as Zara and Debenhams, then head to one of 2 malls in the capital area;  in Reykjavík and the newer  in neighboring Kópavogur. Everything in Iceland probably costs more than it does back home. Items can be as much as 3-4 times the price in neighboring countries, mainly because of taxes (24.5% sales tax on products, 7% on books), import duties and so on, though there are exceptions to this rule.
+
+Sales tax is always included in the sticker price. All foreign visitors are entitled to claim back the tax if they spend 4,000 kr or more in one shop in one day. Iceland is not a member of the European Union, so visitors from all European countries are entitled to sales tax refunding. Icelanders living abroad are also entitled to sales tax refunding.
+
+ATMs are found throughout the city, and they should accept any foreign cards. Currency exchange is mainly done at banks, there are very few special currency exchange shops. Icelanders make very little use of cash, paying for even the smallest of things with their cards. Foreign cards will generally be accepted in stores and restaurants, although there may be problems with American Express in some places. Minimal Icelandic cash is needed for a visit to Reykjavik. You must have a PIN to use your card.
+
+Iceland is one of only a few countries to participate in whaling and hunting of various marine mammals. Many shops have souvenirs made from seal pelts and sometimes even whale or dolphin bones. These are illegal to import or possess in most countries due to the Convention on International Trade of Endangered Species (aka [http://www.cites.org/ CITES]) and attempting to bring back such goods might result in a hefty fine.
+
+Tipping isn't done in Iceland, not under any circumstances; not for any service, not for restaurants or for hotels, or any other place.
+
+==Eat==
+
+===Budget===
+
+Food in Iceland can be expensive. In order not to break the bank, you'll need to be smart when eating. On the budget side, you're mostly looking at international-type fast food options common to what you'd find in Europe and America. Alcohol in particular is expensive in restaurants: a pint of beer is typically 1000-1300 kr. Beer can be purchased for under 300 kr in most convenience/grocery stores, but wine and spirits are available only in the few government-controlled shops. As Iceland is not part of the EU, duty free purchases can be made by all international passengers who have just arrived at the airport, so that is another way to pay less for alcohol.
+
+'''10-11''' is a chain of convenience stores (open 24/7) with plenty of ready-to-eat items such as sandwiches, wraps, and surprisingly enough, tacos. 10-11 is always open but also more expensive than supermarkets, that's why you see most Icelanders shop for food at '''Bónus''' (open 10:00-18:00), a low-cost supermarket chain. Even better, you can find a fish shop which sell ridiculously fresh and absolutely delicious fish, at a very reasonable price, and cook it yourself with some potatoes and vegetables. The fish shop could be in '''Kolaportið''', a central market which only opens on weekends, or alternatively one of the many fish shops (''fiskbúð'') all around the city.
+
+Try one of the hot dog places that are found everywhere. This German import has become thoroughly Iceland-ized. A hot dog should cost 250-300 kr. Ask for "Eina með öllu", a hot dog with everything on it.
+
+'''Fast food''' – Apart from the usual suspects such as KFC and Subway (McDonald's was re-branded Metró by the local franchise holder in 2009, but kept a similar menu) and the hot dog stands mentioned above, Reykjavík has home-grown fast food restaurants. In the city centre many are open 24/7 in weekends, serving the partying crowd. Names include '''Nonnabiti''' and '''Hlöllabátar''' (subs and sandwiches), '''Kebabhúsið''' and '''Ali Baba''' (kebabs), '''Serrano''' (burritos) and '''Pizza Pronto''' (you can guess what they sell). You should be able to fill your stomach at each of these for 1000 kr or less.
+
+The most local street food you can find is ''kjötsúpa'', Icelandic meat soup. It is a spicy vegetable soup with lamb meat. They have a vegetarian version of it too, that is just the same soup minus the meat. You can find vans selling it next to the Hallagrimskirkja and at the northeastern corner of Tjörnin. A small bowl costs about 700 kr and a large one 1100 kr as of August 2014.
+
+'''Thai restaurants''' – Thais form, along with Poles, the largest immigrant community in Reykjavík and as a result there are a lot of good and cheap Thai restaurants around the capital, often run by Thai families. You will usually get large portions without paying much more than 1000-1500 kr. Options in central Reykjavík include '''Krua Thai''' (Tryggvagata 14) and '''Núðluhúsið''' (Laugavegur 59, 2nd floor).
+
+There are tons of cafes everywhere in the city that are relatively inexpensive and a great place to sit, relax and warm up. You can also check your e-mails if you bring your computer, as there is free Wi-Fi in most of them. '''Kaffitar''' and '''Te & Kaffi''' are comparatively large chains and serve great barrista style coffee, that might however be on the expensive side.
+
+* 
+*
+*
+*
+*
+*
+*
+*
+* 
+* 
+
+===Mid-range===
+
+There are many fantastic fish restaurants in Reykjavik. The more expensive ones are by the harbour or in the centre, if you're not so rich try heading towards the old town. Though generally not listed here, most bars serve some food, often better than what you would expect from the look of the place but generally with relatively uninspired menus: Expect to see a few burgers, a pasta dish or two, some salads and maybe a burrito.
+
+Plan on at least 3,000 kr for any meal not in a budget/fast-food restaurant. Seriously.
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+===Splurge===
+If you're willing to spend the money, you'll have no problem finding world class dining in Reykjavík. In addition to some great fish restaurants, most of the world's popular cuisine is represented in Reykjavík's up-scale dining in one form or another.
+* 
+* 
+* 
+*
+*
+*
+
+==Drink==
+
+Reykjavík is considered to have some of the best nightlife in all of Europe and it can be almost guaranteed that you haven't really "partied" until you've done it here. This fact is proven by the number of celebrities who come specifically for it.
+
+Drinking is expensive - expect to pay between ISK 1.000 and 1.400 (2021 prices) for a draft pint at a bar. Bottled beers and mixed drinks are more expensive, sometimes outlandishly so. Despite the cost, going out in Reykjavik is a fun experience. Since alcohol is expensive at Reykjavík bars and clubs, Icelanders usually buy their alcohol at the government owned liquor stores (Vínbúðin, called Ríkið by locals) and stay at home drinking until about midnight (or later), then they will wander to the bars. Do not expect bars and clubs to become crowded during weekends until about 1AM (at least). Cover charges are very rare in Reykjavík, unless there is live music or some other sort of event going on. Note that although the legal age for entering clubs is 18, the legal drinking age is 20 and many places set higher entry age limits themselves.
+
+Bars are open to 01:00 on weeknights, but most will stay open until 06:00 or 07:00 on Friday and Saturday. The clubs and bars themselves are mostly found in a very small area of the city centre, it's easy to just walk around and follow the crowds. You're sure to find somewhere to go, but if you're not sure, groups of drunken Icelanders will usually be eager to help a tourist out! During weekends, live music is easy to find in some of Reykjavík's bars. During the day, be sure to pick up the free English-language magazine The [http://grapevine.is/ Reykjavík Grapevine] for information on live music events for that evening. It is easy to find in shops, restaurants and bars around the city.
+
+There is an ice bar in Restaurant Reykjavík where all the furniture and the bar are made from glacial ice. This seems like an interesting place to go, however, you will be charged 1300 kr for entry which includes a single vodka-based cocktail in what is effectively an atmosphere and music-free deep freezer. You cannot bring in or buy more drinks, if you are keen for novelty it is good, otherwise perhaps not worth the money.
+
+===Bars===
+
+The distinction between bars and clubs is not very clear in Iceland, with most clubs being more like bars until a little before midnight. However, the following venues can be said to be purely bars - places to go and drink with your friends, rather than to dance or listen to music.
+
+* 
+* 
+* 
+
+===Clubs===
+Reykjavík has a large number of clubs and when one closes, another is usually very quick to take its place. There would be no point in trying to list them all, the following are only a small taste. Most of them are quite small - don't expect the big dance halls of many European capitals - but that's part of the fun, the intimate spirit of the Reykjavík nightlife.
+ 
+* 
+* 
+* 
+*  | email=
+| address=Austurstræti 20 | lat=64.147336 | long=-21.9375999 | directions=
+| phone=+354 561 2240 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* 
+* 
+
+== Sleep ==
+
+=== Budget ===
+
+Be warned that there is very little in the way of affordable lodging in Iceland, particularly if you are travelling with a family. The cheapest option in Reykjavík, by far, is to stay at the city's only campsite. If that's not for you, there are several hostels with affordable dorms located in and around the city centre. Fortunately for the traveller on a budget, this seems to be the fastest growing type of accommodation in Reykjavík. Most of these hostels also offer single or double bedrooms, and a few small guesthouses have rooms at similar prices.
+
+* 
+* 
+* 
+* 
+* 
+*  | email=ghviking@simnet.is
+| address=Þverholt | lat=64.1408 | long=-21.9137 | directions=
+| phone=+354 896 4661 | tollfree= | fax=
+| checkin= | checkout= | price=13,990 kr double room
+| content=Just outside the city centre. In addition to accommodations, they also offer car rental services.
+}}
+* 
+* 
+* 
+
+=== Mid-range ===
+*
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+=== Splurge ===
+
+Just as there are surprisingly few cheap accommodation options in Reykjavík, there are surprisingly many expensive ones.
+
+*
+*
+*
+*
+*
+*
+
+==Connect==
+
+Reykjavík has excellent mobile phone coverage (including 5G) and various providers, the largest being [https://www.siminn.is/en/prepaid Síminn], [https://vodafone.is/english Vodafone] and [https://www.nova.is/ Nova]. Most foreign SIM cards should work without problems, but it may be best to check with your mobile phone provider at home before leaving. Payphones are almost nonexistent in Reykjavík.
+
+Wi-fi is free at most cafés in Reykjavík and even at many bars. If there's a password required just ask the staff. Partly because of this, internet cafés have almost ceased to exist, but one such still in operation is [http://www.gzero.is GroundZero], Frakkastígur 8. The clientele is mostly gamers. 1 hour costs 600 kr.
+
+Though Icelandic is the official language, English is spoken quite fluently by almost everyone you will meet and you should have no problems when it comes to communication. Many people also speak a Scandinavian language.
+
+==Stay safe==
+
+Iceland is one of the safest countries in the world, and Reykjavík is one of the safest cities you will ever visit. Just be sure to avoid the fights that break out among the most intoxicated partiers in bars on the street on weekends. However most people are incredibly friendly and police are also friendly and very helpful.
+
+Petty thefts in Reykjavík have occasionally occurred.  In addition, the female traveller would do well to exercise good judgment when walking alone at night. Rape is rare, but can occur. Still, even with these issues, Reykjavík is much safer than most other Western cities, and certainly safer than the larger capitals of other countries.
+
+Homeless people generally hang in the area around the Hlemmur bus station or on Austurvöllur park. They usually don't bother people, not even to ask for spare change even though they might seem to act strangely.
+
+==Cope==
+
+Even though Reykjavík doesn´t have a large population, traffic during rush hour (roughly 07:45-9:00 and 16:30-18:30) can be heavy in certain parts of town. Expect jams and delays in narrow downtown streets and along the main Miklabraut artery.
+
+During the summer, the sun does not fully set, resulting in "dusk" between the hours of roughly midnight and 03:00. While a novelty at first, the lack of night can quickly disrupt your sleeping habits and result in general fatigue. If visiting in the summer, be sure to bring a sleeping mask, even if the window shades largely keep the light out.
+
+'''Toilets''' can be a little bit hard to find. Stores tend to be rather small and almost never have them. Restaurants and cafés are required to provide toilets, and often allow passers-by to use them free of charge. There are a handful of public toilets downtown.
+
+If you can bear to be asked by almost every Icelander you meet "How do you like Iceland?" you're all set for the trip.
+
+===Press===
+
+Reykjavík has one English language magazine, The [http://www.grapevine.is Reykjavík Grapevine], published bi-weekly in the summer and monthly in the winter. Although it started out as a publication mainly aimed at tourists (with events listings, etc.), it has become respected in Iceland for at times very good research journalism and coverage of current events. Available for free at various locations around the city.
+
+Some foreign newspapers are available at newsagents, but for same-day papers you can go to the Eymundsson bookstore at Austurstræti 18 and have them printed.
+
+===Religion===
+
+Lutheran churches are easily found throughout Reykjavík and most of them hold mass at 11:00 every Sunday. There is a Catholic cathedral in central Reykjavík by Túngata, usually called Landakot church but formally known as the Cathedral of Christ the King. A Catholic mass is held there every day in Icelandic, as well as a mass in English 18:00 on Sundays and in Polish 13:15 the second and fourth Sunday of each month. The Russian Orthodox congregation has a house at Sólvallagata 10, holding mass 18:00 on Saturdays and 10:30 Sundays. For Muslims, there are 3 options: The Association of Muslims in Iceland holds Friday prayers at the "Reykjavik Mosque," on the third floor of an office building at Ármúli 3; the Islamic Cultural Centre organizes their services (prayer, meetings, classes, and a school) out of Skútuvogur 1H, while the new Grand Mosque at Skógarhlíð 20 is available for all regular prayer times.
+
+===Embassies===
+
+*  
+*  
+*  
+*  
+*  
+*  
+*  
+*  
+*  
+*  
+*  
+*  
+*  
+
+===Consulates===
+*  
+*  
+
+==Go next==
+* '''Golden Circle''' - a marketing term for a one-day circuit from Reykjavik. It can be easily done by car or by tour. Tours are usually 7.5-hr long and stop at these 3 locations:
+** Þingvellir National Park is located about an hour and a quarter's drive to the east of Reykjavík, here you can see the canyon caused by the Eurasian and North American plates moving apart. It is also home to the original Alþingi (Parliament) and several other cultural treasures. These factors have seen it added to the UNESCO World Heritage List.
+** Gullfoss A spectacular waterfall (which translates as Golden Falls) and one of the nearest big waterfalls to Reykjavík
+** Geysir Geothermal hot spot
+* Hafnarfjörður is a town just outside Reykjavík
+* Blue Lagoon (Bláa Lónið in Icelandic language) is a famous and amazing geothermal spa with the water temperature around 40 °C all year round, even in freezing conditions, located south-west of Reykjavík, not far from the main airport at Keflavík.
+* The Iceland Ring Road is a staple for many tourists who wish to explore what Iceland has to offer by seeing volcanoes and icebergs, waterfalls and fjords that are peppered island-wide.
+
+By booking a trans-Atlantic ticket on Icelandair with a free "stop-over" of up to a week in Reykjavík, you can follow a visit to Iceland with a visit to London, Paris, Glasgow, Oslo, Stockholm, Copenhagen, Amsterdam, Frankfurt, or another city in Europe, or to Washington, D.C., Boston, Orlando, New York, Minneapolis, San Francisco, Seattle, or another U.S. city.

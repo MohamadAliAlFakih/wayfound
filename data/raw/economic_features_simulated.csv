@@ -1,0 +1,129 @@
+destination_name,cost_per_day_usd,safety_index,family_amenity_score
+Queenstown,97.6,53.3,3
+Interlaken,90.7,55.2,3
+Moab,99.5,59.8,3
+Torres del Paine,102.5,53.9,3
+Banff,93.5,53.3,3
+Zermatt,89.7,58.1,3
+Kathmandu,86.0,55.0,3
+Whistler,97.8,58.4,3
+Chamonix,89.7,58.9,3
+Innsbruck,100.9,53.1,3
+La Fortuna,100.8,60.0,3
+Cappadocia,92.0,54.6,3
+Hokkaido,103.7,56.4,3
+Guilin,87.3,54.0,3
+Lofoten Islands,101.6,59.0,3
+Kilimanjaro Region,100.8,60.3,3
+Ao Nang,95.7,62.7,3
+Azores,92.7,58.5,3
+Rishikesh,101.3,59.2,3
+Cairns,101.9,58.8,3
+Luang Prabang Trekking,98.9,53.5,3
+Faroe Islands,89.8,55.9,3
+Maldives,146.6,62.3,5
+Ubud,147.2,62.8,5
+Santorini,164.3,63.6,5
+Phuket,155.8,62.1,5
+Cancun,152.5,69.4,5
+Fiji,164.7,66.1,5
+Koh Samui,149.5,67.3,5
+Amalfi Coast,149.2,63.8,5
+Bora Bora,570.9,66.4,5
+Tulum,161.8,66.8,5
+Seychelles,171.0,67.8,5
+Kauai,151.3,60.3,5
+Algarve,154.1,62.7,5
+Cinque Terre,150.8,69.4,5
+Crete,172.0,63.1,5
+Langkawi,165.0,64.0,5
+Zanzibar,173.3,64.6,5
+Mauritius,152.5,62.5,5
+St. Lucia,162.0,62.6,5
+Palawan,162.7,69.0,5
+Mykonos,156.8,62.2,5
+Muscat Beach,175.9,65.1,5
+Rome,119.4,57.5,5
+Kyoto,119.9,63.3,5
+Istanbul,137.6,61.2,5
+Athens,118.7,60.8,5
+Cairo,142.9,42,5
+Paris,218.8,65.6,5
+Marrakech,117.3,64.2,5
+Prague,134.7,62.4,5
+Barcelona,123.9,63.4,5
+Florence,119.9,61.3,5
+Havana,128.8,66.5,5
+Petra,139.8,59.6,5
+Angkor Wat,130.0,58.8,5
+Varanasi,140.7,65.7,5
+Cusco,124.8,63.4,5
+Samarkand,132.8,58.5,5
+Cartagena,136.8,62.4,5
+Fez,137.2,62.3,5
+Valletta,117.0,60.2,5
+Tallinn,117.5,66.3,5
+Oaxaca,139.8,65.3,5
+Luang Prabang Old Town,125.0,57.6,5
+Hanoi,32.3,52.5,3
+Chiang Mai,32.1,47.9,3
+Tbilisi,32.0,50.6,3
+Medellin,42.1,40,3
+Sofia,37.8,48.5,3
+Skopje,30.5,51.7,3
+Bucharest,39.4,45.1,3
+Budapest,40.3,50.3,3
+Sarajevo,37.6,46.1,3
+Belgrade,44.0,49.5,3
+Kathmandu Budget,39.5,48.2,3
+Ho Chi Minh City,37.0,45.2,3
+Phnom Penh,27.1,42,3
+Yangon,28.4,44,3
+Lagos,41.1,28,3
+Nairobi,37.8,35,3
+Delhi,42.9,43.7,3
+Agra,37.9,49.7,3
+La Paz,23.6,38,3
+Quito,43.5,48.7,3
+Tirana,29.8,50.8,3
+Kotor,47.8,44.9,3
+Dubai,257.4,78,6
+Monaco,689.3,88,6
+Aspen,627.5,73.7,6
+Portofino,460.7,68.0,6
+St. Moritz,637.3,84,6
+Cannes,428.9,69.5,6
+Hong Kong,243.9,71.5,6
+Singapore Business,275.6,82,6
+Maldives Private Island,712.5,76.2,6
+Turks and Caicos,474.5,75.6,6
+Tuscany,454.5,67.5,6
+Capri,417.9,75.4,6
+Maui,492.2,76.3,6
+Zurich,374.4,86,6
+Vienna Grand Hotel,448.7,69.1,6
+Nusa Dua,441.1,67.6,6
+Courchevel,566.0,76.9,6
+Anguilla,428.9,74.8,6
+Lake Como,446.0,71.2,6
+Amalfi 5-Star,491.2,77.0,6
+Orlando,182.0,76.2,9
+Tokyo,158.3,83,9
+Copenhagen,229.7,87,9
+San Diego,181.5,76.5,9
+London,200.5,72,9
+Amsterdam,190.1,79,9
+Sydney,186.3,78.6,9
+Cape Town,164.9,70.9,9
+Reykjavik,183.4,90,9
+Gold Coast,170.5,70.2,9
+Singapore,258.7,82,9
+Vienna,183.4,85,9
+Lisbon,177.1,74.8,9
+Barcelona Family,180.8,78.3,9
+Dubai Family Parks,169.4,76.2,9
+New York,227.5,73.0,9
+Washington DC,186.2,72.0,9
+Kuala Lumpur,173.4,76.5,9
+Cancun Resort Zone,164.6,73.6,9
+New Zealand Gondola,197.9,79.0,9

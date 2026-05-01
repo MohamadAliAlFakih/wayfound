@@ -1,0 +1,129 @@
+name,country,continent,cost_per_day_usd,avg_temp_celsius,outdoor_activity_score,cultural_site_count,safety_index,beach_access,nightlife_score,family_amenity_score,crowd_level,travel_style
+Queenstown,New Zealand,Oceania,97.6,10.2,10,24,53.3,0,8,3.0,3,Adventure
+Interlaken,Switzerland,Europe,90.7,8,9,16,55.2,0,3,3.0,1,Adventure
+Moab,USA,North America,99.5,8,9,16,59.8,0,3,3.0,1,Adventure
+Torres del Paine,Chile,South America,102.5,8,9,16,53.9,0,3,3.0,1,Adventure
+Banff,Canada,North America,93.5,3.1,10,24,53.3,0,4,3.0,2,Adventure
+Zermatt,Switzerland,Europe,89.7,5.8,10,24,58.1,0,4,3.0,2,Adventure
+Kathmandu,Nepal,Asia,86.0,18.6,8,40,55.0,0,4,3.0,3,Adventure
+Whistler,Canada,North America,97.8,6.8,10,24,58.4,0,6,3.0,2,Adventure
+Chamonix,France,Europe,89.7,8,9,16,58.9,0,3,3.0,1,Adventure
+Innsbruck,Austria,Europe,100.9,7.6,10,32,53.1,0,6,3.0,3,Adventure
+La Fortuna,Costa Rica,North America,100.8,14.8,4,40,60.0,0,8,3.0,3,Adventure
+Cappadocia,Turkey,Asia,92.0,12.8,8,32,54.6,0,4,3.0,2,Adventure
+Hokkaido,Japan,Asia,103.7,8,9,16,56.4,0,3,3.0,1,Adventure
+Guilin,China,Asia,87.3,20.1,8,24,54.0,0,4,3.0,2,Adventure
+Lofoten Islands,Norway,Europe,101.6,8,9,16,59.0,0,3,3.0,1,Adventure
+Kilimanjaro Region,Tanzania,Africa,100.8,8,9,16,60.3,0,3,3.0,1,Adventure
+Ao Nang,Thailand,Asia,95.7,28.0,8,24,62.7,1,6,3.0,2,Adventure
+Azores,Portugal,Europe,92.7,18.2,8,24,58.5,1,4,3.0,1,Adventure
+Rishikesh,India,Asia,101.3,8,9,16,59.2,0,3,3.0,1,Adventure
+Cairns,Australia,Oceania,101.9,8,9,16,58.8,0,3,3.0,1,Adventure
+Luang Prabang Trekking,Laos,Asia,98.9,26.8,6,40,53.5,0,4,3.0,1,Adventure
+Faroe Islands,Denmark,Europe,89.8,8,9,16,55.9,0,3,3.0,1,Adventure
+Maldives,Maldives,Asia,146.6,27,6,16,62.3,1,6,5.0,3,Relaxation
+Ubud,Indonesia,Asia,147.2,27.7,6,32,62.8,0,4,5.0,2,Relaxation
+Santorini,Greece,Europe,164.3,27,6,16,63.6,1,6,5.0,3,Relaxation
+Phuket,Thailand,Asia,155.8,27,6,16,62.1,1,6,5.0,3,Relaxation
+Cancun,Mexico,North America,152.5,26.6,8,24,69.4,1,10,5.0,3,Relaxation
+Fiji,Fiji,Oceania,164.7,27,6,16,66.1,1,6,5.0,3,Relaxation
+Koh Samui,Thailand,Asia,149.5,29.2,8,24,67.3,1,6,5.0,2,Relaxation
+Amalfi Coast,Italy,Europe,149.2,27,6,16,63.8,1,6,5.0,3,Relaxation
+Bora Bora,French Polynesia,Oceania,570.9,27.4,8,16,66.4,1,4,5.0,1,Relaxation
+Tulum,Mexico,North America,161.8,27.2,8,24,66.8,1,6,5.0,2,Relaxation
+Seychelles,Seychelles,Africa,171.0,27.7,6,16,67.8,1,4,5.0,1,Relaxation
+Kauai,USA,North America,151.3,27,6,16,60.3,1,6,5.0,3,Relaxation
+Algarve,Portugal,Europe,154.1,18.5,8,24,62.7,1,6,5.0,3,Relaxation
+Cinque Terre,Italy,Europe,150.8,27,6,16,69.4,1,6,5.0,3,Relaxation
+Crete,Greece,Europe,172.0,18.8,8,32,63.1,1,6,5.0,2,Relaxation
+Langkawi,Malaysia,Asia,165.0,27,6,16,64.0,1,6,5.0,3,Relaxation
+Zanzibar,Tanzania,Africa,173.3,27.2,8,32,64.6,1,6,5.0,2,Relaxation
+Mauritius,Mauritius,Africa,152.5,27,6,16,62.5,1,6,5.0,3,Relaxation
+St. Lucia,Saint Lucia,North America,162.0,27.8,6,24,62.6,1,6,5.0,2,Relaxation
+Palawan,Philippines,Asia,162.7,27.8,8,24,69.0,1,4,5.0,1,Relaxation
+Mykonos,Greece,Europe,156.8,27,6,16,62.2,1,6,5.0,3,Relaxation
+Muscat Beach,Oman,Asia,175.9,28.9,6,32,65.1,1,4,5.0,2,Relaxation
+Rome,Italy,Europe,119.4,16.6,6,40,57.5,0,8,5.0,3,Culture
+Kyoto,Japan,Asia,119.9,16.9,4,40,63.3,0,4,5.0,2,Culture
+Istanbul,Turkey,Asia,137.6,16.3,6,40,61.2,0,8,5.0,3,Culture
+Athens,Greece,Europe,118.7,19.4,6,40,60.8,1,8,5.0,3,Culture
+Cairo,Egypt,Africa,142.9,23.5,6,40,42.0,0,6,5.0,3,Culture
+Paris,France,Europe,218.8,13.3,4,40,65.6,0,10,5.0,3,Culture
+Marrakech,Morocco,Africa,117.3,18,4,32,64.2,0,6,5.0,3,Culture
+Prague,Czech Republic,Europe,134.7,10.7,4,40,62.4,0,8,5.0,3,Culture
+Barcelona,Spain,Europe,123.9,16.9,6,40,63.4,1,10,5.0,3,Culture
+Florence,Italy,Europe,119.9,16.3,4,40,61.3,0,6,5.0,3,Culture
+Havana,Cuba,North America,128.8,25.7,6,40,66.5,1,8,5.0,3,Culture
+Petra,Jordan,Asia,139.8,19.9,8,40,59.6,0,2,5.0,2,Culture
+Angkor Wat,Cambodia,Asia,130.0,18,4,32,58.8,0,6,5.0,3,Culture
+Varanasi,India,Asia,140.7,26.1,4,40,65.7,0,4,5.0,3,Culture
+Cusco,Peru,South America,124.8,18,4,32,63.4,0,6,5.0,3,Culture
+Samarkand,Uzbekistan,Asia,132.8,15.4,6,40,58.5,0,4,5.0,3,Culture
+Cartagena,Colombia,South America,136.8,28.3,6,40,62.4,1,8,5.0,3,Culture
+Fez,Morocco,Africa,137.2,18,4,32,62.3,0,6,5.0,3,Culture
+Valletta,Malta,Europe,117.0,19.7,4,40,60.2,1,6,5.0,3,Culture
+Tallinn,Estonia,Europe,117.5,7.2,4,32,66.3,0,6,5.0,3,Culture
+Oaxaca,Mexico,North America,139.8,20.6,6,40,65.3,0,6,5.0,3,Culture
+Luang Prabang Old Town,Laos,Asia,125.0,26.8,6,40,57.6,0,4,5.0,1,Culture
+Hanoi,Vietnam,Asia,32.3,24.8,6,40,52.5,0,6,3.0,3,Budget
+Chiang Mai,Thailand,Asia,32.1,27.0,8,40,47.9,0,6,3.0,2,Budget
+Tbilisi,Georgia,Asia,32.0,14.5,6,32,50.6,0,6,3.0,3,Budget
+Medellin,Colombia,South America,42.1,24,5,24,40.0,0,6,3.0,2,Budget
+Sofia,Bulgaria,Europe,37.8,11.6,6,32,48.5,0,6,3.0,3,Budget
+Skopje,North Macedonia,Europe,30.5,13.9,6,32,51.7,0,6,3.0,3,Budget
+Bucharest,Romania,Europe,39.4,13.1,4,32,45.1,0,8,3.0,3,Budget
+Budapest,Hungary,Europe,40.3,12.4,6,40,50.3,0,10,3.0,3,Budget
+Sarajevo,Bosnia and Herzegovina,Europe,37.6,11.8,6,32,46.1,0,6,3.0,3,Budget
+Belgrade,Serbia,Europe,44.0,14.2,6,32,49.5,0,10,3.0,3,Budget
+Kathmandu Budget,Nepal,Asia,39.5,18.6,8,40,48.2,0,4,3.0,3,Budget
+Ho Chi Minh City,Vietnam,Asia,37.0,28.4,6,32,45.2,0,8,3.0,3,Budget
+Phnom Penh,Cambodia,Asia,27.1,29.1,6,32,42.0,0,6,3.0,3,Budget
+Yangon,Myanmar,Asia,28.4,27.9,6,32,44.0,0,4,3.0,3,Budget
+Lagos,Nigeria,Africa,41.1,18.2,8,24,28.0,1,8,3.0,3,Budget
+Nairobi,Kenya,Africa,37.8,19.9,8,32,35.0,0,6,3.0,3,Budget
+Delhi,India,Asia,42.9,25.3,6,40,43.7,0,8,3.0,3,Budget
+Agra,India,Asia,37.9,24,5,24,49.7,0,6,3.0,2,Budget
+La Paz,Bolivia,South America,23.6,8.1,8,32,38.0,0,6,3.0,3,Budget
+Quito,Ecuador,South America,43.5,14.0,8,40,48.7,0,6,3.0,3,Budget
+Tirana,Albania,Europe,29.8,16.5,6,24,50.8,0,6,3.0,3,Budget
+Kotor,Montenegro,Europe,47.8,16.1,6,32,44.9,1,4,3.0,2,Budget
+Dubai,UAE,Asia,257.4,29.4,8,32,78.0,1,10,6.0,3,Luxury
+Monaco,Monaco,Europe,689.3,15.9,4,32,88.0,1,10,6.0,3,Luxury
+Aspen,USA,North America,627.5,22,3,24,73.7,1,7,6.0,2,Luxury
+Portofino,Italy,Europe,460.7,22,3,24,68.0,1,7,6.0,2,Luxury
+St. Moritz,Switzerland,Europe,637.3,27.8,6,24,84.0,1,6,6.0,2,Luxury
+Cannes,France,Europe,428.9,22,3,24,69.5,1,7,6.0,2,Luxury
+Hong Kong,China,Asia,243.9,24.5,6,40,71.5,0,10,6.0,3,Luxury
+Singapore Business,Singapore,Asia,275.6,28.4,6,32,82.0,1,8,6.0,3,Luxury
+Maldives Private Island,Maldives,Asia,712.5,22,3,24,76.2,1,7,6.0,2,Luxury
+Turks and Caicos,Turks and Caicos,North America,474.5,22,3,24,75.6,1,7,6.0,2,Luxury
+Tuscany,Italy,Europe,454.5,15.2,6,40,67.5,0,6,6.0,2,Luxury
+Capri,Italy,Europe,417.9,22,3,24,75.4,1,7,6.0,2,Luxury
+Maui,USA,North America,492.2,24.3,8,24,76.3,1,6,6.0,2,Luxury
+Zurich,Switzerland,Europe,374.4,10.7,6,32,86.0,0,6,6.0,3,Luxury
+Vienna Grand Hotel,Austria,Europe,448.7,12.7,4,40,69.1,0,8,6.0,3,Luxury
+Nusa Dua,Indonesia,Asia,441.1,22,3,24,67.6,1,7,6.0,2,Luxury
+Courchevel,France,Europe,566.0,22,3,24,76.9,1,7,6.0,2,Luxury
+Anguilla,Anguilla,North America,428.9,22,3,24,74.8,1,7,6.0,2,Luxury
+Lake Como,Italy,Europe,446.0,13.2,8,24,71.2,0,6,6.0,2,Luxury
+Amalfi 5-Star,Italy,Europe,491.2,22,3,24,77.0,1,7,6.0,2,Luxury
+Orlando,USA,North America,182.0,23.3,8,24,76.2,0,8,9.0,3,Family
+Tokyo,Japan,Asia,158.3,16.7,4,40,83.0,0,10,9.0,3,Family
+Copenhagen,Denmark,Europe,229.7,10.2,4,40,87.0,0,8,9.0,3,Family
+San Diego,USA,North America,181.5,18.2,8,32,76.5,1,8,9.0,3,Family
+London,UK,Europe,200.5,11.3,4,40,72.0,0,10,9.0,3,Family
+Amsterdam,Netherlands,Europe,190.1,11.4,6,40,79.0,0,10,9.0,3,Family
+Sydney,Australia,Oceania,186.3,19.0,8,32,78.6,1,8,9.0,3,Family
+Cape Town,South Africa,Africa,164.9,17.1,8,32,70.9,1,8,9.0,3,Family
+Reykjavik,Iceland,Europe,183.4,5.3,8,24,90.0,0,6,9.0,2,Family
+Gold Coast,Australia,Oceania,170.5,20.6,8,24,70.2,1,8,9.0,3,Family
+Singapore,Singapore,Asia,258.7,28.4,6,32,82.0,1,8,9.0,3,Family
+Vienna,Austria,Europe,183.4,12.7,4,40,85.0,0,8,9.0,3,Family
+Lisbon,Portugal,Europe,177.1,17.6,6,40,74.8,1,8,9.0,3,Family
+Barcelona Family,Spain,Europe,180.8,16.9,6,40,78.3,1,10,9.0,3,Family
+Dubai Family Parks,UAE,Asia,169.4,29.4,8,32,76.2,1,10,9.0,3,Family
+New York,USA,North America,227.5,13.8,6,40,73.0,0,10,9.0,3,Family
+Washington DC,USA,North America,186.2,15.6,4,40,72.0,0,6,9.0,3,Family
+Kuala Lumpur,Malaysia,Asia,173.4,28.1,6,32,76.5,0,8,9.0,3,Family
+Cancun Resort Zone,Mexico,North America,164.6,26.6,8,24,73.6,1,10,9.0,3,Family
+New Zealand Gondola,New Zealand,Oceania,197.9,13.8,6,40,79.0,0,10,9.0,3,Family
