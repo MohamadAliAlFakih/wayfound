@@ -1,4 +1,5 @@
 import { useEffect, useRef } from 'react'
+import ReactMarkdown from 'react-markdown'
 import ToolTracePanel from './ToolTracePanel'
 
 /**
@@ -50,10 +51,16 @@ export default function MessageThread({ messages, pending }) {
                   ? 'inline-block bg-emerald-600 text-white rounded-2xl px-4 py-2 whitespace-pre-wrap text-left'
                   : msg.error
                     ? 'inline-block bg-red-50 border border-red-200 text-red-800 rounded-lg px-4 py-2 whitespace-pre-wrap'
-                    : 'inline-block bg-gray-100 text-gray-900 rounded-lg px-4 py-2 whitespace-pre-wrap'
+                    : 'inline-block bg-gray-100 text-gray-900 rounded-2xl px-4 py-2 text-left'
               }
             >
-              {msg.content}
+              {msg.role === 'assistant' && !msg.error ? (
+                <div className="prose prose-sm max-w-none prose-headings:mt-2 prose-headings:mb-1 prose-p:my-1 prose-ul:my-1 prose-li:my-0">
+                  <ReactMarkdown>{msg.content}</ReactMarkdown>
+                </div>
+              ) : (
+                msg.content
+              )}
             </div>
             {msg.role === 'assistant' && !msg.error && (
               <ToolTracePanel toolCalls={msg.tool_calls} />

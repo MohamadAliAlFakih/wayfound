@@ -107,11 +107,43 @@ async def tools_node(
     last = state["messages"][-1]
     tool_calls = getattr(last, "tool_calls", None) or []
 
+    # Dedup: if the agent already ran this exact (name, args) earlier in the
+    # conversation, return the prior result instead of re-running. Prevents
+    # the LLM from looping on the same call.
+    prior_results: dict[tuple[str, str], str] = {}
+    import json as _json  # noqa: PLC0415
+
+    for msg in state["messages"]:
+        if not isinstance(msg, ToolMessage):
+            continue
+        prior_name = getattr(msg, "name", "") or ""
+        prior_id = getattr(msg, "tool_call_id", "")
+        # Find the matching tool_call args from earlier AIMessages by id.
+        for earlier in state["messages"]:
+            for ec in getattr(earlier, "tool_calls", None) or []:
+                if ec.get("id") == prior_id:
+                    key = (prior_name, _json.dumps(ec.get("args") or {}, sort_keys=True))
+                    prior_results[key] = msg.content
+                    break
+
     out_messages: list[ToolMessage] = []
     for call in tool_calls:
         name = call.get("name") or ""
         args = call.get("args") or {}
         call_id = call.get("id") or "unknown"
+
+        # Dedup check — same tool + same args as before? Reuse the old result.
+        dedup_key = (name, _json.dumps(args, sort_keys=True))
+        if dedup_key in prior_results:
+            logger.info("tools_node: dedup — reusing prior result for %s%s", name, args)
+            out_messages.append(
+                ToolMessage(
+                    content=prior_results[dedup_key],
+                    tool_call_id=call_id,
+                    name=name,
+                )
+            )
+            continue
 
         tool = tools_map.get(name)
         if tool is None:

@@ -47,39 +47,44 @@ async def retrieve(
 
     session_factory = async_session_factory()
     async with session_factory() as session:
-        # Step 1: Find top child chunks by cosine distance
+        # Step 1: Find top child chunks by cosine distance.
+        # Select Chunk + the cosine distance value so we can surface it in the API.
+        distance_col = Chunk.embedding.cosine_distance(query_vec).label("distance")
         child_q = (
-            select(Chunk)
+            select(Chunk, distance_col)
             .where(Chunk.parent_id.isnot(None))
-            .order_by(Chunk.embedding.cosine_distance(query_vec))
+            .order_by(distance_col)
             .limit(top_k * 3)  # over-fetch; deduplication will reduce to top_k parents
         )
         if destination_filter:
             child_q = child_q.where(Chunk.destination == destination_filter)
 
-        child_result = await session.execute(child_q)
-        child_chunks = child_result.scalars().all()
+        child_rows = (await session.execute(child_q)).all()
 
-        if not child_chunks:
+        if not child_rows:
             logger.warning("retrieve: no child chunks found for query %r", query[:80])
             return []
 
-        # Step 2: Collect unique parent IDs in hit order
-        seen_parent_ids: list[uuid.UUID] = []
-        for c in child_chunks:
-            if c.parent_id not in seen_parent_ids:
-                seen_parent_ids.append(c.parent_id)
-            if len(seen_parent_ids) >= top_k:
+        # Step 2: Collect unique parent IDs in hit order, tracking the BEST
+        # (smallest) child distance per parent.
+        first_distance_for_parent: dict[uuid.UUID, float] = {}
+        ordered_parent_ids: list[uuid.UUID] = []
+        for child, distance in child_rows:
+            pid = child.parent_id
+            if pid not in first_distance_for_parent:
+                first_distance_for_parent[pid] = float(distance)
+                ordered_parent_ids.append(pid)
+            if len(ordered_parent_ids) >= top_k:
                 break
 
         # Step 3: Fetch parent chunks
-        parent_q = select(Chunk).where(Chunk.id.in_(seen_parent_ids))
+        parent_q = select(Chunk).where(Chunk.id.in_(ordered_parent_ids))
         parent_result = await session.execute(parent_q)
         parents_by_id = {p.id: p for p in parent_result.scalars().all()}
 
-        # Step 4: Return in hit order with cosine distance score
+        # Step 4: Return in hit order with both rank and raw cosine distance
         results: list[dict[str, Any]] = []
-        for i, pid in enumerate(seen_parent_ids):
+        for i, pid in enumerate(ordered_parent_ids):
             parent = parents_by_id.get(pid)
             if parent:
                 results.append(
@@ -89,6 +94,7 @@ async def retrieve(
                         "section": parent.section,
                         "content": parent.content,
                         "score": i,  # rank position (0 = closest child match)
+                        "distance": round(first_distance_for_parent[pid], 4),
                     }
                 )
 

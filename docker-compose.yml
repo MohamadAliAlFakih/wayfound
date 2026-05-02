@@ -44,6 +44,11 @@ services:
       - ./backend/.env
     ports:
       - "8000:8000"
+    volumes:
+      # Mount the trained ML model and data folders into the container.
+      # Backend code resolves these via Path(__file__).parents[2] / "models" or "data".
+      - ./models:/models:ro
+      - ./data:/data:ro
 
   frontend:
     build:

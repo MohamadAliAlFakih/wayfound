@@ -55,9 +55,21 @@ def make_rag_tool(embed_client: LocalEmbedder | None) -> StructuredTool:
             destination_filter=destination_filter,
             openai_client=embed_client,
         )
-        # retrieve() already returns list[dict[str, Any]] with id/destination/section/content/score.
+        # Trim each chunk's content to 300 chars before returning. Cuts ~70%
+        # of the token cost when these results get re-sent across agent turns.
+        # The full text was already used at retrieval time; the LLM only needs
+        # the gist for synthesis.
+        max_content_chars = 300
+        for r in results:
+            content = r.get("content")
+            if isinstance(content, str) and len(content) > max_content_chars:
+                r["content"] = content[:max_content_chars].rstrip() + "…"
+
         logger.info(
-            "rag_tool returned %d parents for query=%r", len(results), query[:60]
+            "rag_tool returned %d parents (trimmed to %d chars) for query=%r",
+            len(results),
+            max_content_chars,
+            query[:60],
         )
         return results
 
